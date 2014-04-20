@@ -4,7 +4,7 @@
 package Visitor_Pattern;
 
 /**
- * @author zainmaqsood
+ * @author zainmaqsood, irfanraziuddin
  *
  */
 public class Monitor implements ComputerPart{

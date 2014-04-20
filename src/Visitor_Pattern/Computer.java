@@ -4,7 +4,7 @@
 package Visitor_Pattern;
 
 /**
- * @author zainmaqsood
+ * @author zainmaqsood, irfanraziuddin
  *
  */
 public class Computer implements ComputerPart{
@@ -24,5 +24,4 @@ public class Computer implements ComputerPart{
 		computerPartVisitor.visit(this);
 		
 	}
-
 }
